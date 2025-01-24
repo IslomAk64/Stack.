@@ -1,0 +1,2 @@
+# Stack.
+Task 6
